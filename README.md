@@ -22,6 +22,8 @@ This project explores **two variants** of Golomb ruler-based fractal trees:
 
 This approach blends **combinatorial mathematics with fractal geometry**, producing intricate branching structures.  
 
+![Golomb](golomb.png) 
+
 ### Enhanced Variant: Naturalistic Growth & Glowing Effects  
 
 - **Branching angles are dynamically adjusted** based on Golomb mark values.  
@@ -31,7 +33,7 @@ This approach blends **combinatorial mathematics with fractal geometry**, produc
 
 This enhanced version amplifies aesthetic appeal while maintaining the mathematical structure of Golomb-based fractals.  
 
-![Golomb](golomb.png)  
+![Golomb](golomb_1.png)  
 
 ## How This Code Works  
 
