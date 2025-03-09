@@ -13,6 +13,8 @@ In this code, we use a **Golomb ruler to generate fractal-like trees**. The Golo
 
 To enhance visualization, colors are assigned based on both **angle and depth**, ensuring clear differentiation even in dense regions. This approach blends **combinatorial mathematics with fractal geometry**, producing unique and intricate branching structures.  
 
+![Golomb](golomb.png)
+
 ## How This Code Works  
 
 The code **recursively generates a fractal tree-like structure** using a **Golomb ruler** to determine branching points. Here’s how it works:
