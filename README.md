@@ -8,10 +8,13 @@ Golomb rulers were invented by **Solomon W. Golomb** in the 1950s. They are sets
 
 ## Golomb Ruler-Based Fractal Trees  
 
-This project explores **two variants** of Golomb ruler-based fractal trees:  
+This project introduces a novel algorithm for generating fractal tree structures based on Golomb ruler sequences. By utilizing the unique, non-repetitive intervals of Golomb rulers to define branch lengths and placement, the method creates structured yet non-uniform growth patterns that expand recursively with each depth level.
 
-1. **Basic Variant:** Uses a **Golomb ruler to generate fractal-like trees** by defining branch placement. The structured yet non-uniform growth pattern creates a unique fractal structure.  
-2. **Enhanced Variant:** Introduces **dynamic branching angles, irregular growth, and glowing effects** for a more visually striking and organic fractal.  
+Two variants are availabe
+
+- **Basic Variant:** Uses a **Golomb ruler to generate fractal-like trees** by defining branch placement.
+
+- **Enhanced Variant:** Introduces **dynamic branching angles, irregular growth, and glowing effects** for a more visually striking and organic fractal.  
 
 ### Basic Variant: Structured Fractal Growth  
 
