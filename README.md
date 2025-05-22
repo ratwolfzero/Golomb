@@ -1,5 +1,7 @@
 # Golomb Rulers: History and Purpose  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15490060.svg)](https://doi.org/10.5281/zenodo.15490060)
+
 Golomb rulers were invented by **Solomon W. Golomb** in the 1950s. They are sets of marks at integer positions along a ruler such that no two pairs of marks have the same distance. Originally studied in **combinatorial mathematics**, Golomb rulers have practical applications in:  
 
 - **Radio astronomy** (minimizing interference in antenna arrays).  
