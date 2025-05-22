@@ -25,7 +25,7 @@ Two variants are availabe
 
 This approach blends **combinatorial mathematics with fractal geometry**, producing intricate branching structures.  
 
-![Golomb](golomb.png) 
+![Golomb](golomb.png)
 
 ### Enhanced Variant: Naturalistic Growth & Glowing Effects  
 
