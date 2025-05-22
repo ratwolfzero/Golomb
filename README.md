@@ -78,3 +78,5 @@ The code **recursively generates a fractal tree-like structure** using a **Golom
 - **The enhanced variant introduces more natural fractal growth and visually stunning effects.**  
 
 This project demonstrates the intersection of **mathematics, fractal geometry, and aesthetic visualization**.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15490060.svg)](https://doi.org/10.5281/zenodo.15490060)
