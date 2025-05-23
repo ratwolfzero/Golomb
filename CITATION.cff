@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Fractal Tree based on Golomb Ruler Intervals"
+version: 1.0.0
+doi: 10.5281/zenodo.15490060
+authors:
+  - family-names: Becker
+    given-names: Ralf
+    affiliation: Independent researcher
+date-released: 2025-05-22
