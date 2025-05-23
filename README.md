@@ -1,14 +1,14 @@
 # Golomb Rulers: History and Purpose  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15490060.svg)](https://doi.org/10.5281/zenodo.15490060)
-
 Golomb rulers were invented by **Solomon W. Golomb** in the 1950s. They are sets of marks at integer positions along a ruler such that no two pairs of marks have the same distance. Originally studied in **combinatorial mathematics**, Golomb rulers have practical applications in:  
 
 - **Radio astronomy** (minimizing interference in antenna arrays).  
 - **X-ray crystallography** (improving measurement accuracy).  
 - **Error correction codes** (helping with unique signal identification).  
 
-## Golomb Ruler-Based Fractal Trees  
+## Golomb Ruler-Based Fractal Trees
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15490060.svg)](https://doi.org/10.5281/zenodo.15490060)
 
 This project introduces a novel algorithm for generating fractal tree structures based on Golomb ruler sequences. By utilizing the unique, non-repetitive intervals of Golomb rulers to define branch lengths and placement, the method creates structured yet non-uniform growth patterns that expand recursively with each depth level.
 
