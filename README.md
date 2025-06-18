@@ -61,7 +61,8 @@ The code **recursively generates a fractal tree-like structure** using a **Golom
 - Instead of using depth alone for coloring, it blends **depth, angle, and Golomb mark values** into a **smooth gradient**.  
 - Formula:  
 
-    colors[line_count] = ((depth / max_depth) + (angle / (2 * np.pi)) + (mark / max_mark)) % 1.0  
+```python
+colors[line_count] = ((depth / max_depth) + (new_angle / (2 * np.pi)) + (mark / max(ruler))) % 1.0
 
 - The `'twilight'` colormap ensures a visually appealing distribution.  
 - The **enhanced version** incorporates **glowing effects** with semi-transparent lines.  
