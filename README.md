@@ -63,6 +63,7 @@ The code **recursively generates a fractal tree-like structure** using a **Golom
 
 ```python
 colors[line_count] = ((depth / max_depth) + (new_angle / (2 * np.pi)) + (mark / max(ruler))) % 1.0
+```
 
 - The `'twilight'` colormap ensures a visually appealing distribution.  
 - The **enhanced version** incorporates **glowing effects** with semi-transparent lines.  
